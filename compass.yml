@@ -1,0 +1,16 @@
+name: skills-copilot-codespaces-vscode
+id: ari:cloud:compass:4c980b7e-a4bb-46d5-8aa0-f211524278f0:component/bf311a47-a9a6-41f6-87ac-41a380fbefe3/590f1aec-364c-47ef-ab76-3c265bdbb361
+description: My clone repository
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Qasura-H/skills-copilot-codespaces-vscode
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
